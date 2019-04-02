@@ -1,7 +1,7 @@
 var xcss = document.createElement("link")
 xcss.setAttribute("rel", "stylesheet")
 xcss.setAttribute("type", "text/css")
-xcss.setAttribute("href", "//whateversec.github.io/default.min.css")
+xcss.setAttribute("href", "//js.n0bodysec.es/default.min.css")
 document.head.appendChild(xcss);
 
 /*! highlight.js v9.15.6 | BSD3 License | git.io/hljslicense */
